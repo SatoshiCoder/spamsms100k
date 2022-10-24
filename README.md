@@ -1,1 +1,1 @@
-# spamsms100k
+Tool SpamSMS created by CharlesTricker
